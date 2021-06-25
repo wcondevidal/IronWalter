@@ -21,10 +21,13 @@ The folder is divided into weeks:
 This folder contains the projects that we have done at ironhack. 
 
 **FlyingDucks:**
-This project consisted on creating a one page summary of the findings on us job offers. 
+This project consisted on creating a one page summary of the findings on us job offers.
+
 Further project details can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) 
+
 **ERD:**
 This project consisted on creating a ERD diagram of a restaurant network.
+
 Further project details can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) 
 
 ## Python
