@@ -4,10 +4,10 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 ## Table of content
 
 - [Documents](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
-- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
-- [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
-- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
+- [Data](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [Process & Tools](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [Visualization](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [Key Take Aways](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
 
 ## Documents
 This folder contains various documents of importance that have been collected throught the bootcamp.
@@ -17,29 +17,19 @@ The folder is divided into weeks:
  - Week 3 documents - [Week 3](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
  - Week 4 documents - [Week 4](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
 
-**FlyingDucks:**
-This project consisted on 
-**Challenge:**
-Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
-
-**Problem:**
-Can we build a machine learning model that predicts if our customer accepts or declines the credit card offer?<br/><br/>
-
-Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
-
 ## Projects
 This folder contains the projects that we have done at ironhack. 
 
 **FlyingDucks:**
-This project consisted on 
+This project consisted on creating a one page summary of the findings on us job offers. 
+Further project details can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) 
+**ERD:**
+This project consisted on creating a ERD diagram of a restaurant network.
+Further project details can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) 
 
-Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
-To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
-![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_dashboard.png?raw=true)
-<br/>
-<br/>For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
+## Python
 
-## Process & Tools
+
 
 **Process**
 
