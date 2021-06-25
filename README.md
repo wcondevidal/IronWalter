@@ -3,7 +3,7 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 <br/><br/>
 ## Table of content
 
-- [Documents](https://github.com/wcondevidal/ironwalter/main/README.md#documents)
+- [Documents](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
 - [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
 - [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
 - [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
