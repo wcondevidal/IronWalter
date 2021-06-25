@@ -4,10 +4,9 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 ## Table of content
 
 - [Documents](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Data](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Process & Tools](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Visualization](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Key Take Aways](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [Projects](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [Python](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [SQL](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
 <br/><br/>
 ## Documents
 This folder contains various documents of importance that have been collected throught the bootcamp.
@@ -49,6 +48,6 @@ This folder contains some sql files that have been worked in class.
 
 [SQL](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) <br/>
 <br/><br/>
-**Thank you for reading!** <br/>
+**Thank you for reading!** 📔 <br/>
 If you have any questions, please reach out to me.<br/><br/>
 W
