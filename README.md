@@ -4,9 +4,9 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 ## Table of content
 
 - [Documents](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Projects](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Python](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [SQL](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
+- [Projects](https://github.com/wcondevidal/ironwalter/blob/main/README.md#projects)
+- [Python](https://github.com/wcondevidal/ironwalter/blob/main/README.md#python)
+- [SQL](https://github.com/wcondevidal/ironwalter/blob/main/README.md#SQL)
 <br/><br/>
 ## Documents
 This folder contains various documents of importance that have been collected throught the bootcamp.
