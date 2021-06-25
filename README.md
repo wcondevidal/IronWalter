@@ -31,7 +31,17 @@ This project consisted on creating a ERD diagram of a restaurant network.
 Further project details can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) 
 
 ## Python
+This folder cosists of all the work that has been done woth python. 
 
+ - **Intorduction to python:** This folder contais some lectures about python basics - [Link to python into folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ 
+ - **Regex:** This folder contais some lectures about regex - [Link to python regex folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ 
+ - **Pandas:** This folder contais some lectures about pandas in python - [Link to python pandas folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ 
+ - **Machine Learning:** This folder contais some lectures about machine learning in python - [Link to python machine learning folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ 
+ - **SQL to Python:** This folder contais some lectures about integrating SQL in python - [Link to SQL to Python folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
 
 
 **Process**
