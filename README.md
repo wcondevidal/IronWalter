@@ -3,14 +3,19 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 <br/><br/>
 ## Table of content
 
-- [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Documents](https://github.com/wcondevidal/ironwalter/main/README.md#documents)
 - [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
 - [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
 - [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
 - [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
-## Projects
-This folder contains the projects that we have done at ironhack. 
+## Documents
+This folder contains various documents of importance that have been collected throught the bootcamp.
+The folder is divided into weeks:
+ - Week 1 documents - [Week 1](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - Week 2 documents - [Week 2](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - Week 3 documents - [Week 3](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
+ - Week 4 documents - [Week 4](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
 
 **FlyingDucks:**
 This project consisted on 
@@ -22,7 +27,11 @@ Can we build a machine learning model that predicts if our customer accepts or d
 
 Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
 
-## Data
+## Projects
+This folder contains the projects that we have done at ironhack. 
+
+**FlyingDucks:**
+This project consisted on 
 
 Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
 To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
