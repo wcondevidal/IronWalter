@@ -11,7 +11,7 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 ## Documents
 This folder contains various documents of importance that have been collected throught the bootcamp.
 The folder is divided into weeks:
- - Week 1 documents - [Week 1](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - Week 1 documents - [Week 1](https://github.com/IronWalter/Documents/week_1/)
  - Week 2 documents - [Week 2](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
  - Week 3 documents - [Week 3](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
  - Week 4 documents - [Week 4](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
