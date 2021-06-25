@@ -48,19 +48,7 @@ This folder cosists of all the work that has been done woth python.
 This folder contains some sql files that have been worked in class. 
 
 [SQL](https://public.tableau.com/profile/szulyovszky.lilla#!/vizhome/CaseStudyClassification_Lilla/Task9-Dashboard2?publish=yes) <br/>
-
-
-## Key Take Aways
-
-### 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
-### 2. We suspect the following features to impact the customers decision to accept the most:
-  - mailer type
-  - credit rating
-  - income level
-  - reward
-# 
-
+<br/><br/>
 **Thank you for reading!** <br/>
-If you have any questions, please reach out to us.<br/><br/>
-Team :mage_woman:
-655d  
+If you have any questions, please reach out to me.<br/><br/>
+W
