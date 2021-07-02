@@ -1,22 +1,18 @@
-# Iron Walter - The Repository 
+# Iron Walter - MIDTERM PROJECT
 by [Walter Conde](https://github.com/Wcondevidal), April 2021
 <br/><br/>
 ## Table of content
 
 - [Documents](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [Projects](https://github.com/wcondevidal/ironwalter/blob/main/README.md#projects)
-- [Python](https://github.com/wcondevidal/ironwalter/blob/main/README.md#python)
-- [SQL](https://github.com/wcondevidal/ironwalter/blob/main/README.md#SQL)
+- [The Project](https://github.com/wcondevidal/ironwalter/blob/main/README.md#projects)
 <br/><br/>
 ## Documents
-This folder contains various documents of importance that have been collected throught the bootcamp.
+This folder contains various documents of importance that have been collected throught the project.
 The folder is divided into weeks:
- - Week 1 documents - [Week 1](https://github.com/wcondevidal/IronWalter/tree/main/Documents/week_1)
- - Week 2 documents - [Week 2](https://github.com/wcondevidal/IronWalter/tree/main/Documents/week_2)
- - Week 3 documents - [Week 3](https://github.com/wcondevidal/IronWalter/tree/main/Documents/week_3)
- - Week 4 documents - [Week 4](https://github.com/wcondevidal/IronWalter/tree/main/Documents/week_4)
+ - Data Sets - [Data Sets](https://github.com/wcondevidal/IronWalter/tree/main/Documents/week_1)
+ - Deliverables - [Deliverables](https://github.com/wcondevidal/IronWalter/tree/main/Documents/week_2)
 <br/><br/>
-## Projects
+## Project
 This folder contains the projects that we have done at ironhack. 
 
 **FlyingDucks:**
