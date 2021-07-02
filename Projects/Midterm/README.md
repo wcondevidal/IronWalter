@@ -15,7 +15,8 @@ The folder is divided into weeks:
 ## Project
 
 Let's start by seeing how google searches interact with other data sources. 
-![Classification Case Study](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/Readme_header.png?raw=true)
+![Classification Case Study](https://github.com/wcondevidal/IronWalter/blob/main/Projects/Midterm/Deliverables/Screen%20Shot%202021-07-03%20at%2000.20.53.png)
+
 Figure 1. COVID19 cases and restrictions of mobility.
 
 As seen in figure 1, the COVID19 cases clearly portray the 4 main “waves” that Spain has suffered. Regarding the mobility measures figure 1 cleary shows how on the first wave there was the highest mobility restrictions and if looked closely as this restrictions start to decrease we can see the different “fases de desescalada” which took place exactly at the time where they are situated in the graph. Then reaching summer and going back to normality in terms of mobility, COVID cases start going up again. After summer Spain starts incorporating more restrictions as COVID cases surge, this reach a maximum on February this year. Overall we can see that this graph clearly represents what has happened in the past two years in terms of COVID cases and mobility restrictions.
