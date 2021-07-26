@@ -10,6 +10,7 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 This folder contains various documents of importance that have been collected throught the project.
 The folder is divided into weeks:
  - Data Sets - [Data Sets](https://github.com/wcondevidal/IronWalter/tree/main/Projects/Midterm/Data%20Sets)
+   - COVID Case data set = https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos
  - Deliverables - [Deliverables](https://github.com/wcondevidal/IronWalter/tree/main/Projects/Midterm/Deliverables)
 <br/><br/>
 ## Project
