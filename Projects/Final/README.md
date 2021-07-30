@@ -67,6 +67,23 @@ Figure 6. Time lagged cross correlation
 
 In the plot above, we can infer from the negative offset that Subject 1 (Google Keywords) is leading the interaction (correlation is maximized when S2 (Covid Cases) is pulled backwards by 5 frames). Meaning that the searches of symptoms increase 5 days before an actual increase on covid cases. 
 
+After doing this, a prediction had to be made. The following graph will show the 3 different predicitons made. The model had been trained for 170 days with the covid cases and the keywords. Then the test dataset was created with 400 days. 
+
+This are the 3 predictions made:
+- Regression prediction (5 days)
+- Regression prediction (10 days) 
+- LSTM Prediction
+
+![Predictions](https://github.com/wcondevidal/IronWalter/blob/main/Projects/Final/Graphs/Screen%20Shot%202021-07-29%20at%2018.02.38.png)
+
+As we can see the 3 predictions are very accurate. The 5 days prediction being the most accurate as shoqn in the TLCC with the offset of 5 days. 
+
+The RMSE for the Linear regression of 5 days was of 3.364, the one with 10 days was 5.978 and lastly the LSTM was of 4.729
+Also the R score for the Linear regression of 5 days was of .84
+
+We can conclude that with this information we could have predicted the covid cases with a fair error number. And taken decission accordingly. A private and public cooperation would have been crucial
+
+
 <br/><br/>
 **Thank you for reading!** 📔 <br/>
 If you have any questions, please reach out to me.<br/><br/>
