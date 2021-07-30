@@ -1,4 +1,4 @@
-# Iron Walter - MIDTERM PROJECT
+# Iron Walter - FINAL PROJECT
 by [Walter Conde](https://github.com/Wcondevidal), April 2021
 <br/><br/>
 ## Table of content
