@@ -3,8 +3,8 @@ by [Walter Conde](https://github.com/Wcondevidal), April 2021
 <br/><br/>
 ## Table of content
 
-- [Documents](https://github.com/wcondevidal/ironwalter/blob/main/README.md#documents)
-- [The Project](https://github.com/wcondevidal/ironwalter/blob/main/README.md#projects)
+- [Documents]
+- [The Project]
 <br/><br/>
 ## Documents
 This folder contains various documents of importance that have been collected throught the project.
